@@ -1,0 +1,46 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Part Number,Manufacturer
+1,Unpolarized capacitor,C_Small,C9 C10 C11 C12 C13 C14 C15 C16 C22 C23 C25 C27 C28,0.1 µF,C_0805_2012Metric,13,https://api.kemet.com/component-edge/download/datasheet/C0805C104J5RALTU.pdf,C0805C104J5RAL7800 C0805C104J3RACTU,KEMET
+2,Unpolarized capacitor,C_Small,C21,10 nF,C_0805_2012Metric,1,https://api.kemet.com/component-edge/download/datasheet/C0805C103J5GACTU.pdf,C0805C103J5GACTU,KEMET
+3,Unpolarized capacitor,C_Small,C1 C2 C3 C4 C5 C6 C7 C8 C19,10 µF,C_1210_3225Metric,9,http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM32DR71E106KA12-01.pdf,GRM32DR71E106KA12L,Murata Electronics North America
+4,Unpolarized capacitor,C_Small,C17 C18 C26 C29,12 pF,C_0805_2012Metric,4,http://www.yageo.com/documents/recent/UPY-GP_NP0_16V-to-50V_16.pdf,CC0805FRNPO9BN120,Yageo
+5,Unpolarized capacitor,C_Small,C20,3.3 nF,C_0805_2012Metric,1,https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx,GRM2165C1H332FA01J,Murata Electronics North America
+6,Unpolarized capacitor,C_Small,C24,4700 pF,C_0805_2012Metric,1,https://api.kemet.com/component-edge/download/datasheet/C0805C472K5RACTU.pdf,C0805C472K5RACTU,KEMET
+7,Dual schottky diode,D_Schottky_x2_Serial_AKC,D1 D2,BAT721S,SOT-23,2,https://assets.nexperia.com/documents/data-sheet/1PS76SB21_BAT721_SER.pdf,"BAT721S,215",Nexperia USA Inc.
+8,,9007-05-01,K1 K2 K3 K4,9007-05-01,RELAY-9007,4,https://cotorelay.com/wp-content/uploads/2014/09/9007_series_reed_relay_datasheet.pdf,9007-05-01,Coto Technology
+9,"Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x05,P2,CELL,T4145035041-001,1,http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=T41450350X1001&DocType=Customer+Drawing&DocLang=English,T4145035041-001,TE Connectivity AMP Connectors
+10,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x06,P3,ICSP,PinHeader_1x06_P2.54mm_Vertical,1,https://media.digikey.com/PDF/Data%20Sheets/Sullins%20PDFs/xRxCzzzSxxN-RC_ST_11635-B.pdf,PRPC006SAAN-RC,Sullins Connector Solutions
+11,,USB_Header,P1,USB Terminal,PinHeader_1x05_P2.54mm_Vertical,1,http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=215297&DocType=Customer+Drawing&DocLang=English,215297-5,TE Connectivity AMP Connectors
+12,"Resistor, small symbol",R_Small,R12,100k*,R_0805_2012Metric,1,https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf,ERA-6AEB104V,Panasonic Electronic Components
+13,"Resistor, small symbol",R_Small,R10,10R*,R_0805_2012Metric,1,http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773200&DocType=DS&DocLang=English,CPF0805B10RE,TE Connectivity Passive Product
+14,"Resistor, small symbol",R_Small,R2 R5,10k,R_0805_2012Metric,2,http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf,RC0805FR-0710KL,Yageo
+15,"Resistor, small symbol",R_Small,R13,18k*,R_0805_2012Metric,1,https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf,ERA-6AEB183V,Panasonic Electronic Components
+16,"Resistor, small symbol",R_Small,R1 R3,1k,R_0805_2012Metric,2,http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf,RC0805FR-071KL,Yageo
+17,"Resistor, small symbol",R_Small,R11,1k*,R_0805_2012Metric,1,https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf,ERA-6AEB102V,Panasonic Electronic Components
+18,"Resistor, small symbol",R_Small,R6 R8,240k*,R_0805_2012Metric,2,http://www.susumu.co.jp/common/pdf/n_catalog_partition01_en.pdf,RG2012N-244-W-T1,Susumu
+19,"Resistor, small symbol",R_Small,R4,27R,R_0805_2012Metric,1,http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf,RC0805FR-0727RL,Yageo
+20,"Resistor, small symbol",R_Small,R14,2k*,R_0805_2012Metric,1,https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf,ERA-6AEB202V,Panasonic Electronic Components
+21,"Resistor, small symbol",R_Small,R7 R9 R15 R16 R17 R18,75k*,R_0805_2012Metric,6,https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf,ERA-6ARW753V,Panasonic Electronic Components
+22,,ADR421,U3,ADR421,SOIC-8_3.9x4.9mm_P1.27mm,1,http://www.analog.com/media/en/technical-documentation/data-sheets/ADR420_421_423_425.pdf,ADR421ARZ,Analog Devices Inc.
+23,,DAC1220,U6,DAC1220,SSOP-16_3.9x4.9mm_P0.635mm,1,http://www.ti.com/lit/ds/symlink/dac1220.pdf,DAC1220E,Texas Instruments
+24,,DG449,U8,DG449,sot23-8,1,http://www.vishay.com/docs/73897/dg449.pdf,DG449DS-T1-E3,Vishay Siliconix
+25,,LM2662,U1,LM2662,SOIC-8_3.9x4.9mm_P1.27mm,1,http://www.ti.com/lit/ds/symlink/lm2662.pdf,LM2662M/NOPB,Texas Instruments
+26,,MCP3550,U4 U5,MCP3553,SOIC-8_3.9x4.9mm_P1.27mm,2,http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en024716,MCP3553-E/SN,Microchip Technology
+27,,OPA2192,U9,OPA2192,SOIC-8_3.9x4.9mm_P1.27mm,1,http://www.ti.com/lit/ds/symlink/opa192.pdf,OPA2192IDR,Texas Instruments
+28,,OPA4192,U7,OPA4192,SOIC-14_3.9x8.7mm_P1.27mm,1,http://www.ti.com/lit/ds/symlink/opa4192.pdf,OPA4192IDR,Texas Instruments
+29,,PIC16F1459,U2,PIC16F1459,SOIC-20W_7.5x12.8mm_P1.27mm,1,http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en558409,PIC16F1459-I/SO,Microchip Technology
+30,"Two pin crystal, small symbol",Crystal_Small,X1,2.5 MHz,Crystal_HC49-U_Vertical,1,http://www.ecsxtal.com/store/pdf/hc49ux.pdf,ECS-25-S-1X,ECS Inc.
+
+
+
+
+
+Component Groups:,30
+Component Count:,66
+Fitted Components:,66
+Number of PCBs:,1
+Total components:,66
+Schematic Version:,1
+Schematic Date:,2018-07-27
+BoM Date:,Fri 27 Jul 2018 05:08:33 PM EDT
+Schematic Source:,/home/matt/mystat-master/kicad3/mystat.sch
+KiCad Version:,Eeschema 5.0.0+dfsg1-1
